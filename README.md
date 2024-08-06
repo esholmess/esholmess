@@ -4,7 +4,7 @@ I have strong skills in leading projects and teams, with experience as the found
 I'm also deeply interested in art and hope to keep it as an important part of my life.
 
 - 🔭 I’m currently working on some mini projects to improve my skills.
-- 🌱 I’m currently learning Python, Web Development, Data Science, Artificial Intelligence ...
-- 📫 How to reach me: LinkedIn or E-mail
+- 🌱 I’m currently learning Python, Web Development, Data Science, AI ...
+- 📫 How to reach me: LinkedIn ( https://www.linkedin.com/in/ilknur-yaren-k-51058831b/ ) or E-mail ( yrnbrnkrkc09@gmail.com )
   
 
