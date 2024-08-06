@@ -7,4 +7,3 @@ I'm also deeply interested in art and hope to keep it as an important part of my
 - 🌱 I’m currently learning Python, Web Development, Data Science, AI ...
 - 📫 How to reach me: LinkedIn ( https://www.linkedin.com/in/ilknur-yaren-k-51058831b/ ) or E-mail ( yrnbrnkrkc09@gmail.com )
   
-
