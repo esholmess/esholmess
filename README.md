@@ -13,5 +13,3 @@ I'm also deeply interested in art and hope to keep it as an important part of my
 ![esholmess's Streak](https://github-readme-streak-stats.herokuapp.com/?user=esholmess&theme=midnight-purple&hide_border=true)
 ![Bright Good Morning Sun Animated Illustration SFX Instagram Post(5)](https://github.com/user-attachments/assets/740e4dcb-2fed-4f17-b019-d60f550ce381)
 
----
-[![](https://visitcount.itsvg.in/api?id=esholmess&label=Profile%20Views&color=10&icon=0&pretty=false)](https://visitcount.itsvg.in)
