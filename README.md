@@ -1,4 +1,4 @@
-# Hi there 👋 , I am İlknur Yaren
+# Hi there 👋 , I am Ilknur Yaren
 A junior high school student passionate about software development. I plan to study computer science and artificial intelligence at university.
 I have strong skills in leading projects and teams, with experience as the founder and captain of various robotics teams. My goal is to become a successful leader in the tech industry.
 I'm also deeply interested in art and hope to keep it as an important part of my life.
