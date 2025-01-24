@@ -1,7 +1,5 @@
 # Hi there 👋 , I am Ilknur Yaren
-A junior high school student passionate about software development. I plan to study computer science and artificial intelligence at university.
-I have strong skills in leading projects and teams, with experience as the founder and captain of various tech teams. My goal is to become a successful leader in the tech industry.
-I'm also deeply interested in art and hope to keep it as an important part of my life.
+As someone passionate and curios about software development, I aim to advance in the field of AI development. I have strong skills in leading projects and teams, with experience as the founder and captain of various tech teams. My primary goal is to become a successful leader in the tech industry and I strive for this. I'm also deeply interested in art and hope to keep it as an important part of my life.
 
 - 🔭 I’m currently working on some mini projects to improve my skills.
 - 🌱 I’m currently learning Python, Web Development, Data Science, AI ...
