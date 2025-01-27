@@ -13,7 +13,5 @@ As someone passionate and curios about software development, I aim to advance in
 ![](https://github-readme-streak-stats.herokuapp.com/?user=esholmess&theme=radical&hide_border=false)
 ![Bright Good Morning Sun Animated Illustration SFX Instagram Post(5)](https://github.com/user-attachments/assets/740e4dcb-2fed-4f17-b019-d60f550ce381)
 
-## ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+###  A bug is never just a mistake. It represents something bigger. An error of thinking. That makes you who you are.💫
 
