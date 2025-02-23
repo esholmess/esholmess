@@ -11,4 +11,7 @@ As someone passionate and curios about software development, I aim to advance in
 
 
 ###  💫A BUG IS NEVER JUST A MISTAKE _ IT REPRESENTS SOMETHING BIGGER _ AN ERROR OF THINKING _ THAT MAKES YOU WHO YOU ARE💫
-![Bright Good Morning Sun Animated Illustration SFX Instagram Post(5)](https://github.com/user-attachments/assets/740e4dcb-2fed-4f17-b019-d60f550ce381)
+
+<p align="center">
+ <img width="1000" src="snake.svg" alt="snake"/>
+</p>
