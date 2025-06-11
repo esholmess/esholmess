@@ -1,15 +1,12 @@
 
-![KarbonAT(1)](https://github.com/user-attachments/assets/ada3ed05-a5f9-48c5-aec5-fc08977ab31a)
+<p align="center">
+ <img width="1000" src="KarbonAT(1).png" alt="banner"/>
+</p>
 
 # Ilknur Yaren K. 😼
 ### Jr. AI & Web Developer | Astronomy and Neuroscience Enthusiast | Research & Visual Arts @ Science and Art Center
 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/ilknur-yaren-k-51058831b/">LinkedIn</a> or <a href="yrnbrnkrkc09@gmail.com ">E-mail</a>
+<h3><a href="https://www.linkedin.com/in/ilknur-yaren-k-51058831b/">💙 LinkedIn</a>  |  <a href="yrnbrnkrkc09@gmail.com ">🤎 Mail</a></h3>
 
-<code><b>💫A bug is never just a mistake, it represents something bigger. An error of thinking that makes you who you are💫</b></code>
+<h4><code><b>💫 A bug is never just a mistake, it represents something bigger. An error of thinking that makes you who you are 💫</b></code></h4>
 
-
-
-<p align="center">
- <img width="1000" src="snake.svg" alt="snake"/>
-</p>
