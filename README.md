@@ -2,7 +2,7 @@
 <p align="center">
  <img width="1000" src="KarbonAT(1).png" alt="banner"/> 
 </p>
-
+ 
 # İlknur Yaren K.   
 ### Jr. AI & Web Developer | Astronomy and Neuroscience Enthusiast | Research & Visual Arts @ Science and Art Center | AI in Healthcare | NLP & Computer Vision
 
