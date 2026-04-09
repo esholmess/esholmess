@@ -3,7 +3,7 @@
  <img width="1000" src="KarbonAT(1).png" alt="banner"/>  
 </p>   
      
-# İlknur Yaren Karakoc    
+# Ilknur Yaren Karakoc    
 ### 17 | Ed-Tech | AI in Healthcare | Intern @ Madlen.io 
 
 <h3><a href="https://www.linkedin.com/in/ilknuryarenkarakoc/">🔷LinkedIn </a>   |   <a href="yrnbrnkrkc09@gmail.com "> 📩 Mail </a>   |   <a href="https://huggingface.co/esholmess"> 🤗 HuggingFace</a></h3>
