@@ -6,7 +6,7 @@
 # Ilknur Yaren Karakoc    
 ### 17 | Ed-Tech | AI in Healthcare | Intern @ Madlen.io 
 
-<h3><a href="https://www.linkedin.com/in/ilknuryarenkarakoc/">🔷LinkedIn </a>   |   <a href="yrnbrnkrkc09@gmail.com "> 📩 Mail </a>   |   <a href="https://huggingface.co/esholmess"> 🤗 HuggingFace</a></h3>
+<h3><a href="https://www.linkedin.com/in/ilknuryarenkarakoc/">🔷LinkedIn </a>   |   <a href="yrnbrnkrkc09@gmail.com "> 📩 Mail </a>   |   <a href="https://huggingface.co/esholmess"> 🤗 HuggingFace</a>  |  <a href="https://www.kaggle.com/esholmess">Kaggle</a></h3>
 
 <h4><code><b>💫 A bug is never just a mistake, it represents something bigger. An error of thinking that makes you who you are 💫</b></code></h4> 
 
